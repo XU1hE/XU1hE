@@ -17,6 +17,5 @@ Here are some ideas to get you started:
 
 - 🎓 I’m an Electronic Information Engineering student at Glasgow College, UESTC.
 - 🔭 Currently working on a Hybrid Power Storage project for CONTROL course.
-- 📫 Feel free to contact me at: [yihe8552@gmail.com](mailto:yihe8552@gmail.com)
-- 😄 For more support, Glasgow College students can reach out to WeSupport Advisors: [link](https://uestc.feishu.cn/share/base/query/shrcnzlhVUEw2TSs9TDVHApuNHh).
+- 😄 contact me OR more supporter, Gla-UESTCers can reach out to WeSupport: [link](https://uestc.feishu.cn/share/base/query/shrcnzlhVUEw2TSs9TDVHApuNHh).
 - ⚡ Fun fact: I love sunshine 🌞 and Jazz 🎹
