@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🎓 I’m an EEE/EIE student at Glasgow College, UESTC.
-- 🔭 Currently working on a Hybrid Power Storage project for [UoG14002]CONTROL course.
+- 👩🏻‍💻 and an Intern Student in SIEMENS@Chengdu from Feb.2025.
+- 🔭 Currently working on an active RFID locating system called Simsearch as intership project.
 - 😄 contact me OR more supporter, Gla-UESTCers can reach out to WeSupport: [飞书预约](https://uestc.feishu.cn/share/base/query/shrcnzlhVUEw2TSs9TDVHApuNHh); [B站](https://space.bilibili.com/1737510942/?spm_id_from=333.999.0.0)
 - ⚡ Fun fact: I love sunshine 🌞 and Jazz 🎹
